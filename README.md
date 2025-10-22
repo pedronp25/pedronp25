@@ -37,4 +37,4 @@ Here are a few projects from my journey at 42 Porto:
 
 ## 📫 Contact
 - **Email:** pedromsp@gmail.com  
-- **LinkedIn:** [linkedin.com](www.linkedin.com/in/pedro-pereira-7696b52b8)  
+- **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/pedro-pereira-7696b52b8)  
