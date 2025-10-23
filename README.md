@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Pedro
 
-🎓 I'm a student at [42 Porto](https://www.42porto.com), currently diving deep into **C programming**, **UNIX systems**, and **low-level development**.  
+🎓 I'm a student at [42 Porto](https://www.42porto.com), currently diving deep into **![C](https://img.shields.io/badge/Language-C-blue)
+![Status](https://img.shields.io/badge/Status-Completed-green) programming**, **UNIX systems**, and **low-level development**.  
 🌍 I'm multilingual — fluent in **Portuguese, and English** / conversational in **French** — and passionate about technology, language, and how they connect people.  
 💻 I enjoy writing clean, efficient code and exploring how things work under the hood.  
 
